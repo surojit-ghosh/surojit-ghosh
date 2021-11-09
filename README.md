@@ -1,4 +1,4 @@
-### Hi, I'm Surojit Ghosh
+### Hi, I'm Surojit Ghosh aka Jit
 ---
 - Djs library
 ---
