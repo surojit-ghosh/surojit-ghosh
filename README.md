@@ -1,1 +1,6 @@
-<img style=" display: block; margin-left: auto;margin-right: auto; width: 50%;" src="https://github-readme-stats.vercel.app/api?username=AmJit&show_icons=true&theme=radical&count_private=true" alt="My github stats">
+### Hi, I'm Surojit Ghosh aka Jit
+---
+- Djs library
+---
+![Surojit's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmJit&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmJit&layout=compact)
