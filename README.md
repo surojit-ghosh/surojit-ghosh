@@ -1,1 +1,1 @@
-<h1>Hi</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=AmJit&show_icons=true&theme=radical&count_private=true" alt="My github stats" width="500" height="600">
