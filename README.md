@@ -1,1 +1,1 @@
-<img src="https://github-readme-stats.vercel.app/api?username=AmJit&show_icons=true&theme=radical&count_private=true" alt="My github stats">
+<img style=" display: block; margin-left: auto;margin-right: auto; width: 50%;" src="https://github-readme-stats.vercel.app/api?username=AmJit&show_icons=true&theme=radical&count_private=true" alt="My github stats">
