@@ -2,5 +2,5 @@
 ---
 - Djs library
 ---
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmJit&layout=compact" width="500" height="100"></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmJit&layout=compact" width="500" height="200"></div>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AmJit&show_icons=true&theme=radical&count_private=true"></div>
