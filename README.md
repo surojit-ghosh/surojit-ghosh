@@ -8,5 +8,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=surojit-ghosh&show_icons=true&theme=radical&count_private=true"width="400" >
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surojit-ghosh&layout=compact" width="400">
 </div>
